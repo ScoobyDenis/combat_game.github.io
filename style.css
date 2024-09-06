@@ -1,0 +1,15 @@
+body {
+    max-width: 390px;
+    }
+
+p {
+    color: red;
+    text-align: center;
+    background: yellow;
+}
+
+h1 {
+    color: green;
+    font-size: 72px;
+    text-align: center;
+}
